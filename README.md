@@ -1,2 +1,2 @@
 # Win10
-<b>Hi</b>
+<b style="color:red">Hi</b>
